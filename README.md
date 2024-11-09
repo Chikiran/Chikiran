@@ -31,7 +31,7 @@
 
 <!--Stats-->
 <div align="center">
-  <h3>GitHub Stats <img src="https://media.giphy.com/media/26FPnwz3d9e8tq80Y/giphy.gif" width="40px" height="40px"></h3>
+  <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;GitHub Stats</h3>
   <div style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=Chikiran&show_icons=true&theme=transparent" width="48%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chikiran&layout=compact&theme=transparent" width="48%" />
@@ -42,12 +42,12 @@
 
 <!-- Snake contribution grid -->
 
-  ![Snake animation](https://github.com/Chikiran/Chikiran/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Chikiran/Chikiran/blob/output/github-contribution-grid-snake-dark.svg)
 
 <hr>
 
 <!--Skills Table-->
-<h3 align="center">Skills & Tools <img src="https://media.giphy.com/media/ZgTR3UQ9TT7juxOHAU/giphy.gif" width="40px" height="40px"></h3>
+<h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">Skills & Tools</h3>
 
 <table align="center">
   <tr>
@@ -75,27 +75,29 @@
 <hr>
 
 <!--Top Repos-->
-<h3 align="center">Top Repositories <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="40px" height="40px"></h3>
+<h3 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Top Repositories </h3>
 
 <div align="center">
-  <a href="https://github.com/Chikiran/repo-name-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=repo-name-1&theme=transparent" width="45%" />
+  <!-- Temporary Repositories -->
+  <!-- These are placeholder repos to be updated or removed later -->
+  <a href="https://github.com/Chikiran/Farmer-was-replaced">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=Farmer-was-replaced&theme=transparent" width="45%" />
   </a>
-  <a href="https://github.com/Chikiran/repo-name-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=repo-name-2&theme=transparent" width="45%" />
+  <a href="https://github.com/Chikiran/Wordaddy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=Wordaddy&theme=transparent" width="45%" />
   </a>
-  <a href="https://github.com/Chikiran/repo-name-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=repo-name-3&theme=transparent" width="45%" />
+  <a href="https://github.com/Chikiran/Order-Counter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=Order-Counter&theme=transparent" width="45%" />
   </a>
-  <a href="https://github.com/Chikiran/repo-name-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=repo-name-4&theme=transparent" width="45%" />
+  <a href="https://github.com/Chikiran/Mihon_Backupinator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=Mihon_Backupinator&theme=transparent" width="45%" />
   </a>
 </div>
 
 <hr>
 
 <!--Connect with me-->
-<h3 align="center">Contact Me <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40px" height="40px"></h3>
+<h3 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px" height="50px">Contact Me</h3>
 
 <div align="center">
   <a href="mailto:Chikiran@chuuniverse.com">

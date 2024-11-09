@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:39A9E2,100:FFFFFF" width="100%">
 
 <div align="center">
-  <h2><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img>Greetings, I'm Chikiran></h2>
+  <h2><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img>Greetings, I'm Chikiran</h2>
 </div>
 
 <!--Typing animation-->
@@ -36,6 +36,13 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Chikiran&show_icons=true&theme=transparent" width="48%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chikiran&layout=compact&theme=transparent" width="48%" />
   </div>
+</div>
+
+<hr>
+
+<!-- Snake contribution grid -->
+<div align="center>
+  ![Snake animation](https://github.com/Chikiran/Chikiran/blob/output/github-contribution-grid-snake-dark.svg)
 </div>
 
 <hr>
@@ -100,7 +107,3 @@
 <!--Footer-->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:39A9E2,100:FFFFFF&section=footer" width="100%">
 
-<!-- Snake contribution grid -->
-<div align="center>
-![Snake animation](https://github.com/Chikiran/Chikiran/blob/output/github-contribution-grid-snake-dark.svg)
-</div>

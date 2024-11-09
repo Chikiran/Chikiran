@@ -33,8 +33,8 @@
 <div align="center">
   <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">&nbsp;GitHub Stats</h3>
   <div style="display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Chikiran&show_icons=true&theme=transparent" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chikiran&layout=compact&theme=transparent" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Chikiran&show_icons=true&theme=algolia" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chikiran&layout=compact&theme=algolia" width="48%" />
   </div>
 </div>
 

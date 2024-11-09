@@ -2,14 +2,19 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:39A9E2,100:FFFFFF" width="100%">
 
 <div align="center">
-  <h2>Hello, I'm Chikiran <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40px" height="40px"></h2>
+  <h2>Greetings, I'm Chikiran <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40px" height="40px"></h2>
 </div>
 
 <!--Typing animation-->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Barlow+Condensed&size=30&duration=2000&pause=500&background=2F35FF00&center=true&width=435&lines=Computer+Science;Software+Engineering;Continuous+Learning;Problem+Solving;Technology+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Barlow+Condensed&size=30&duration=2000&pause=500&background=2F35FF00&center=true&width=435&lines=Computer+Science;Software+Engineering;Web+Development;Game+Development" alt="Typing SVG" />
   </a>
+</div>
+
+<!-- Socials Section -->
+<div align="center">
+  <!-- Replace with a rotator for social links -->
 </div>
 
 <hr>
@@ -18,7 +23,7 @@
 <div align="center">
   <h3>About Me <img src="https://media.giphy.com/media/l3vRnAYX3VM3A4RhG/giphy.gif" width="40px" height="40px"></h3>
   <p>
-    Driven by curiosity, I’m dedicated to learning as much as I can about software development and technology. I’m always exploring new concepts and refining my understanding of computer science fundamentals. Looking forward to learning, building, and making an impact!
+    I’m a curious developer with a passion for learning and exploring new technologies. Currently diving deep into <b>software engineering</b> and enhancing my skills in <b>web and game development</b>. I'm excited to build, collaborate, and grow in the tech community!
   </p>
 </div>
 
@@ -27,6 +32,7 @@
 <!--Stats-->
 <div align="center">
   <h3>GitHub Stats <img src="https://media.giphy.com/media/26FPnwz3d9e8tq80Y/giphy.gif" width="40px" height="40px"></h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chikiran&theme=transparent" width="90%" />
   <div style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=Chikiran&show_icons=true&theme=transparent" width="48%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chikiran&layout=compact&theme=transparent" width="48%" />
@@ -39,23 +45,25 @@
 <h3 align="center">Skills & Tools <img src="https://media.giphy.com/media/ZgTR3UQ9TT7juxOHAU/giphy.gif" width="40px" height="40px"></h3>
 
 <table align="center">
-  <!-- Languages -->
   <tr>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" /><br>C++</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br>Java</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br>Python</td>
-  </tr>
-  <!-- Frameworks -->
-  <tr>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /><br>Node.js</td>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnet/dotnet-original.svg" width="48" height="48" alt=".NET" /><br>.NET</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" /><br>OpenCV</td>
-  </tr>
-  <!-- Tools -->
-  <tr>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" height="48" alt="Git" /><br>Git</td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" /><br>Oracle</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br>Java</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br>JavaScript</td>
+  </tr>
+  <tr>
     <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /><br>Linux</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /><br>MySQL</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" /><br>Node.js</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" /><br>OpenCV</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" /><br>Oracle</td>
+  </tr>
+  <tr>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br>Python</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" /><br>TypeScript</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" /><br>HTML</td>
+    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" /><br>CSS</td>
   </tr>
 </table>
 
@@ -65,19 +73,17 @@
 <h3 align="center">Top Repositories <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="40px" height="40px"></h3>
 
 <div align="center">
-  <!-- Temporary Repositories -->
-  <!-- These are placeholder repos to be updated or removed later -->
-  <a href="https://github.com/Chikiran/Farmer-was-replaced">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=Farmer-was-replaced&theme=transparent" width="45%" />
+  <a href="https://github.com/Chikiran/repo-name-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=repo-name-1&theme=transparent" width="45%" />
   </a>
-  <a href="https://github.com/Chikiran/Wordaddy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=Wordaddy&theme=transparent" width="45%" />
+  <a href="https://github.com/Chikiran/repo-name-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=repo-name-2&theme=transparent" width="45%" />
   </a>
-  <a href="https://github.com/Chikiran/Order-Counter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=Order-Counter&theme=transparent" width="45%" />
+  <a href="https://github.com/Chikiran/repo-name-3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=repo-name-3&theme=transparent" width="45%" />
   </a>
-  <a href="https://github.com/Chikiran/Mihon_Backupinator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=Mihon_Backupinator&theme=transparent" width="45%" />
+  <a href="https://github.com/Chikiran/repo-name-4">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=repo-name-4&theme=transparent" width="45%" />
   </a>
 </div>
 

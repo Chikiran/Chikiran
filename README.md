@@ -14,7 +14,7 @@
 
 <!-- Socials Section -->
 <div align="center">
-  <!-- Replace with a rotator for social links -->
+
 </div>
 
 <hr>
@@ -23,8 +23,7 @@
 <div align="center">
   <h3>About Me <img src="https://media.giphy.com/media/l3vRnAYX3VM3A4RhG/giphy.gif" width="40px" height="40px"></h3>
   <p>
-    I’m a curious developer with a passion for learning and exploring new technologies. Currently diving deep into <b>software engineering</b> and enhancing my skills in <b>web and game development</b>. I'm excited to build, collaborate, and grow in the tech community!
-  </p>
+    I'm a developer working my way toward software engineering, always curious and ready to learn. I’m driven to keep advancing my skills and expanding my knowledge.
 </div>
 
 <hr>
@@ -32,7 +31,6 @@
 <!--Stats-->
 <div align="center">
   <h3>GitHub Stats <img src="https://media.giphy.com/media/26FPnwz3d9e8tq80Y/giphy.gif" width="40px" height="40px"></h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chikiran&theme=transparent" width="90%" />
   <div style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=Chikiran&show_icons=true&theme=transparent" width="48%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chikiran&layout=compact&theme=transparent" width="48%" />
@@ -102,4 +100,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:39A9E2,100:FFFFFF&section=footer" width="100%">
 
 <!-- Snake contribution grid -->
-![snake gif](https://github.com/Chikiran/Chikiran/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Chikiran/Chikiran/blob/output/github-contribution-grid-snake.svg)

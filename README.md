@@ -1,5 +1,5 @@
 <!--Header-->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:39A9E2,100:FFFFFF" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:39A9E2,100:FFFFFF" width="100%">
 
 <div align="center">
   <h1><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img>Greetings, I'm Chikiran</h1>

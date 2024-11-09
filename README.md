@@ -24,7 +24,7 @@
 
 <!--About Me Section-->
 <div align="center">
-  <h3>About Me <img src="https://media.giphy.com/media/l3vRnAYX3VM3A4RhG/giphy.gif" width="40px" height="40px"></h3>
+  <h3>✯ About Me ✯</h3>
   <p>
     I'm a developer working my way toward software engineering, always curious and ready to learn. I’m driven to keep advancing my skills and expanding my knowledge.
 </div>
@@ -33,7 +33,7 @@
 
 <!--Stats-->
 <div align="center">
-  <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;GitHub Stats</h3>
+  <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px">&nbsp;GitHub Stats</h3>
   <div style="display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=Chikiran&show_icons=true&theme=transparent" width="48%" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chikiran&layout=compact&theme=transparent" width="48%" />
@@ -49,7 +49,7 @@
 <hr>
 
 <!--Skills Table-->
-<h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px">Skills & Tools</h3>
+<h3 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">Skills & Tools</h3>
 
 <table align="center">
   <tr>
@@ -77,7 +77,7 @@
 <hr>
 
 <!--Top Repos-->
-<h3 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;Top Repositories </h3>
+<h3 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git"/>&nbsp;Top Repositories </h3>
 
 <div align="center">
   <!-- Temporary Repositories -->
@@ -99,7 +99,7 @@
 <hr>
 
 <!--Connect with me-->
-<h3 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px" height="50px">Contact Me</h3>
+<h3 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px" height="40px">Contact Me</h3>
 
 <div align="center">
   <a href="mailto:Chikiran@chuuniverse.com">

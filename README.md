@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:39A9E2,100:FFFFFF" width="100%">
 
 <div align="center">
-  <h2>Greetings, I'm Chikiran <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></h2>
+  <h2>Greetings, I'm Chikiran <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40px" height="40px"></h2>
 </div>
 
 <!--Typing animation-->
@@ -12,11 +12,16 @@
   </a>
 </div>
 
+<!-- Socials Section -->
+<div align="center">
+  <!-- Replace with a rotator for social links -->
+</div>
+
 <hr>
 
 <!--About Me Section-->
 <div align="center">
-  <h3>👋 About Me</h3>
+  <h3>About Me <img src="https://media.giphy.com/media/l3vRnAYX3VM3A4RhG/giphy.gif" width="40px" height="40px"></h3>
   <p>
     I’m a curious developer with a passion for learning and exploring new technologies. Currently diving deep into <b>software engineering</b> and enhancing my skills in <b>web and game development</b>. I'm excited to build, collaborate, and grow in the tech community!
   </p>
@@ -26,20 +31,18 @@
 
 <!--Stats-->
 <div align="center">
-  <h3>GitHub Stats <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"></h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Chikiran&show_icons=true&theme=algolia" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Chikiran&theme=algolia" width="48%" />
-</div>
-
-<!--Top languages-->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chikiran&layout=compact&theme=algolia" width="48%" />
+  <h3>GitHub Stats <img src="https://media.giphy.com/media/26FPnwz3d9e8tq80Y/giphy.gif" width="40px" height="40px"></h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chikiran&theme=transparent" width="90%" />
+  <div style="display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Chikiran&show_icons=true&theme=transparent" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chikiran&layout=compact&theme=transparent" width="48%" />
+  </div>
 </div>
 
 <hr>
 
 <!--Skills Table-->
-<h3 align="center">🛠 Skills & Tools <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"></h3>
+<h3 align="center">Skills & Tools <img src="https://media.giphy.com/media/ZgTR3UQ9TT7juxOHAU/giphy.gif" width="40px" height="40px"></h3>
 
 <table align="center">
   <tr>
@@ -67,39 +70,36 @@
 <hr>
 
 <!--Top Repos-->
-<h3 align="center">🔥 Top Repositories <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/></h3>
+<h3 align="center">Top Repositories <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="40px" height="40px"></h3>
 
 <div align="center">
   <a href="https://github.com/Chikiran/repo-name-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=repo-name-1&theme=algolia" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=repo-name-1&theme=transparent" width="45%" />
   </a>
   <a href="https://github.com/Chikiran/repo-name-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=repo-name-2&theme=algolia" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=repo-name-2&theme=transparent" width="45%" />
   </a>
   <a href="https://github.com/Chikiran/repo-name-3">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=repo-name-3&theme=algolia" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=repo-name-3&theme=transparent" width="45%" />
   </a>
   <a href="https://github.com/Chikiran/repo-name-4">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=repo-name-4&theme=algolia" width="45%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=repo-name-4&theme=transparent" width="45%" />
   </a>
 </div>
 
 <hr>
 
 <!--Connect with me-->
-<h3 align="center">🌐 Connect with Me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50px" height="50px"></h3>
+<h3 align="center">Contact Me <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="40px" height="40px"></h3>
 
-<p align="center">
-  <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" />
+<div align="center">
+  <a href="mailto:Chikiran@chuuniverse.com">
+    <img src="https://img.shields.io/badge/Chikiran@chuuniverse.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/yourprofile" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" />
-  </a>
-</p>
+</div>
 
 <!--Footer-->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:39A9E2,100:FFFFFF&section=footer" width="100%">
+
+<!-- Snake contribution grid -->
+![snake gif](https://github.com/Chikiran/Chikiran/blob/output/github-contribution-grid-snake.svg)

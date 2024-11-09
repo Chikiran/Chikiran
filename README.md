@@ -43,6 +43,7 @@
 <!-- Snake contribution grid -->
 <div align="center>
   ![Snake animation](https://github.com/Chikiran/Chikiran/blob/output/github-contribution-grid-snake-dark.svg)
+  
 </div>
 
 <hr>

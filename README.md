@@ -94,8 +94,6 @@
   </a>
 </div>
 
-<hr>
-
 <!--Connect with me-->
 <h2 align="center"><img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="40px" height="40px">Contact Me</h2>
 

@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:39A9E2,100:FFFFFF" width="100%">
 
 <div align="center">
-  <h2>Greetings, I'm Chikiran <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="40px" height="40px"></h2>
+  <h2><img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px" height="50px"></img>Greetings, I'm Chikiran></h2>
 </div>
 
 <!--Typing animation-->
@@ -17,7 +17,8 @@
 
 </div>
 
-<hr>
+<!--line<hr>-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--About Me Section-->
 <div align="center">

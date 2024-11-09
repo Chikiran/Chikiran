@@ -27,7 +27,7 @@
     I'm a developer working my way toward software engineering, always curious and ready to learn. I’m driven to keep advancing my skills and expanding my knowledge.
 </div>
 
-<hr>
+
 
 <!--Stats-->
 <div align="center">
@@ -38,13 +38,13 @@
   </div>
 </div>
 
-<hr>
+
 
 <!-- Snake contribution grid -->
 
 ![Snake animation](https://github.com/Chikiran/Chikiran/blob/output/github-contribution-grid-snake-dark.svg)
 
-<hr>
+
 
 <!--Skills Table-->
 <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="40px" height="40px">Skills & Tools</h2>
@@ -72,7 +72,7 @@
   </tr>
 </table>
 
-<hr>
+
 
 <!--Top Repos-->
 <h2 align="center"><img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" alt="Git"/>&nbsp;Top Repositories </h2>

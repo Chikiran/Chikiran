@@ -1,5 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:39A9E2,100:FFFFFF" width="100%">
-<h1 align="center">Hi 👋, I'm Chikiran</h1>
+<h1 align="center">Greetings 👋, I'm Chikiran</h1>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>

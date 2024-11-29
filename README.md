@@ -76,8 +76,8 @@
 <div align="center">
   <!-- Temporary Repositories -->
   <!-- These are placeholder repos to be updated or removed later -->
-  <a href="https://github.com/Chikiran/Farmer-was-replaced">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=Farmer-was-replaced&theme=transparent" width="45%" />
+  <a href="https://github.com/Chikiran/Hotel-Management-System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&Hotel-Management-System&theme=transparent" width="45%" />
   </a>
   <a href="https://github.com/Chikiran/Wordaddy">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=Wordaddy&theme=transparent" width="45%" />

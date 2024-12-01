@@ -79,8 +79,8 @@
   <a href="https://github.com/Chikiran/Hotel-Management-System">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=Hotel-Management-System&theme=transparent" width="45%" />
   </a>
-  <a href="https://github.com/Chikiran/Wordaddy">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=Wordaddy&theme=transparent" width="45%" />
+  <a href="https://github.com/Chikiran/Messenger-Side-Hide">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=Messenger-Side-Hide&theme=transparent" width="45%" />
   </a>
   <a href="https://github.com/Chikiran/Order-Counter">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=Order-Counter&theme=transparent" width="45%" />

@@ -79,8 +79,8 @@
   <a href="https://github.com/Chikiran/Messenger-Side-Hide">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=Messenger-Side-Hide&theme=transparent" width="45%" />
   </a>
-  <a href="https://github.com/Chikiran/Order-Counter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=Order-Counter&theme=transparent" width="45%" />
+  <a href="https://github.com/Chikiran/DropDowninator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=DropDowninator&theme=transparent" width="45%" />
   </a>
   <a href="https://github.com/Chikiran/Mihon_Backupinator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Chikiran&repo=Mihon_Backupinator&theme=transparent" width="45%" />

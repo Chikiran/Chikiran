@@ -9,7 +9,7 @@
 <!--Typing animation-->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Barlow+Condensed&size=30&duration=2000&pause=500&background=2F35FF00&center=true&width=435&lines=Computer+Science;Software+Engineering;Web+Development;Game+Development" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Barlow+Condensed&size=30&duration=2000&pause=500&background=2F35FF00&center=true&width=435&lines=Computer+Science;Software+Engineering;Web+Development;" alt="Typing SVG" />
   </a>
 </div>
 
